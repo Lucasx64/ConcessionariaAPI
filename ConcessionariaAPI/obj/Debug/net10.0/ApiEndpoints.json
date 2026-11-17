@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ConcessionariaAPI.Controllers.VeiculoController",
+    "Method": "ListarTodos",
+    "RelativePath": "api/Veiculo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
