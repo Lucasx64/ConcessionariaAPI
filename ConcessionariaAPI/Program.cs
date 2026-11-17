@@ -17,6 +17,7 @@ builder.Services.AddDbContext<ConcessionariaContext>(options =>
 
 
 builder.Services.AddScoped<IVeiculoRepository, VeiculoRepository>();
+builder.Services.AddScoped<IMarcaRepository, MarcaRepository>();
 
 
 var app = builder.Build();

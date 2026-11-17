@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConcessionariaAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3adb6af1b4c6f03e1a3b8e690d0728bb8a5ca841")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConcessionariaAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConcessionariaAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

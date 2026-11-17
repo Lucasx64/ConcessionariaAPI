@@ -1,5 +1,15 @@
 [
   {
+    "ContainingType": "ConcessionariaAPI.Controllers.MarcaController",
+    "Method": "ListaeTodos",
+    "RelativePath": "api/Marca",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ConcessionariaAPI.Controllers.VeiculoController",
     "Method": "ListarTodos",
     "RelativePath": "api/Veiculo",

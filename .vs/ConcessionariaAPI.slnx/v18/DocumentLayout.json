@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\84289112587\\source\\repos\\ConcessionariaAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C7A839B-6E6D-4380-BBC5-7FF30921BCC9}|ConcessionariaAPI\\ConcessionariaAPI.csproj|c:\\users\\84289112587\\source\\repos\\concessionariaapi\\concessionariaapi\\repositories\\veiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7A839B-6E6D-4380-BBC5-7FF30921BCC9}|ConcessionariaAPI\\ConcessionariaAPI.csproj|solutionrelative:concessionariaapi\\repositories\\veiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{104CC787-AA77-8494-1C68-695E6FF81AD7}|ConcessionariaAPI\\ConcessionariaAPI.csproj|c:\\users\\84289112587\\source\\repos\\concessionariaapi\\concessionariaapi\\controllers\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{104CC787-AA77-8494-1C68-695E6FF81AD7}|ConcessionariaAPI\\ConcessionariaAPI.csproj|solutionrelative:concessionariaapi\\controllers\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C7A839B-6E6D-4380-BBC5-7FF30921BCC9}|ConcessionariaAPI\\ConcessionariaAPI.csproj|c:\\users\\84289112587\\source\\repos\\concessionariaapi\\concessionariaapi\\controllers\\veiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7A839B-6E6D-4380-BBC5-7FF30921BCC9}|ConcessionariaAPI\\ConcessionariaAPI.csproj|solutionrelative:concessionariaapi\\controllers\\veiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{104CC787-AA77-8494-1C68-695E6FF81AD7}|ConcessionariaAPI\\ConcessionariaAPI.csproj|c:\\users\\84289112587\\source\\repos\\concessionariaapi\\concessionariaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{104CC787-AA77-8494-1C68-695E6FF81AD7}|ConcessionariaAPI\\ConcessionariaAPI.csproj|solutionrelative:concessionariaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C7A839B-6E6D-4380-BBC5-7FF30921BCC9}|ConcessionariaAPI\\ConcessionariaAPI.csproj|c:\\users\\84289112587\\source\\repos\\concessionariaapi\\concessionariaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7A839B-6E6D-4380-BBC5-7FF30921BCC9}|ConcessionariaAPI\\ConcessionariaAPI.csproj|solutionrelative:concessionariaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{104CC787-AA77-8494-1C68-695E6FF81AD7}|ConcessionariaAPI\\ConcessionariaAPI.csproj|c:\\users\\84289112587\\source\\repos\\concessionariaapi\\concessionariaapi\\repositories\\marcarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{104CC787-AA77-8494-1C68-695E6FF81AD7}|ConcessionariaAPI\\ConcessionariaAPI.csproj|solutionrelative:concessionariaapi\\repositories\\marcarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C7A839B-6E6D-4380-BBC5-7FF30921BCC9}|ConcessionariaAPI\\ConcessionariaAPI.csproj|c:\\users\\84289112587\\source\\repos\\concessionariaapi\\concessionariaapi\\interfaces\\iveiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7A839B-6E6D-4380-BBC5-7FF30921BCC9}|ConcessionariaAPI\\ConcessionariaAPI.csproj|solutionrelative:concessionariaapi\\interfaces\\iveiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{104CC787-AA77-8494-1C68-695E6FF81AD7}|ConcessionariaAPI\\ConcessionariaAPI.csproj|c:\\users\\84289112587\\source\\repos\\concessionariaapi\\concessionariaapi\\interfaces\\imarcarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{104CC787-AA77-8494-1C68-695E6FF81AD7}|ConcessionariaAPI\\ConcessionariaAPI.csproj|solutionrelative:concessionariaapi\\interfaces\\imarcarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C7A839B-6E6D-4380-BBC5-7FF30921BCC9}|ConcessionariaAPI\\ConcessionariaAPI.csproj|c:\\users\\84289112587\\source\\repos\\concessionariaapi\\concessionariaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0C7A839B-6E6D-4380-BBC5-7FF30921BCC9}|ConcessionariaAPI\\ConcessionariaAPI.csproj|solutionrelative:concessionariaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{104CC787-AA77-8494-1C68-695E6FF81AD7}|ConcessionariaAPI\\ConcessionariaAPI.csproj|c:\\users\\84289112587\\source\\repos\\concessionariaapi\\concessionariaapi\\repositories\\veiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{104CC787-AA77-8494-1C68-695E6FF81AD7}|ConcessionariaAPI\\ConcessionariaAPI.csproj|solutionrelative:concessionariaapi\\repositories\\veiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{104CC787-AA77-8494-1C68-695E6FF81AD7}|ConcessionariaAPI\\ConcessionariaAPI.csproj|c:\\users\\84289112587\\source\\repos\\concessionariaapi\\concessionariaapi\\controllers\\veiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{104CC787-AA77-8494-1C68-695E6FF81AD7}|ConcessionariaAPI\\ConcessionariaAPI.csproj|solutionrelative:concessionariaapi\\controllers\\veiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{104CC787-AA77-8494-1C68-695E6FF81AD7}|ConcessionariaAPI\\ConcessionariaAPI.csproj|c:\\users\\84289112587\\source\\repos\\concessionariaapi\\concessionariaapi\\interfaces\\iveiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{104CC787-AA77-8494-1C68-695E6FF81AD7}|ConcessionariaAPI\\ConcessionariaAPI.csproj|solutionrelative:concessionariaapi\\interfaces\\iveiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{104CC787-AA77-8494-1C68-695E6FF81AD7}|ConcessionariaAPI\\ConcessionariaAPI.csproj|c:\\users\\84289112587\\source\\repos\\concessionariaapi\\concessionariaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{104CC787-AA77-8494-1C68-695E6FF81AD7}|ConcessionariaAPI\\ConcessionariaAPI.csproj|solutionrelative:concessionariaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +42,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MarcaController.cs",
+              "DocumentMoniker": "C:\\Users\\84289112587\\source\\repos\\ConcessionariaAPI\\ConcessionariaAPI\\Controllers\\MarcaController.cs",
+              "RelativeDocumentMoniker": "ConcessionariaAPI\\Controllers\\MarcaController.cs",
+              "ToolTip": "C:\\Users\\84289112587\\source\\repos\\ConcessionariaAPI\\ConcessionariaAPI\\Controllers\\MarcaController.cs",
+              "RelativeToolTip": "ConcessionariaAPI\\Controllers\\MarcaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T22:33:21.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MarcaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\84289112587\\source\\repos\\ConcessionariaAPI\\ConcessionariaAPI\\Repositories\\MarcaRepository.cs",
+              "RelativeDocumentMoniker": "ConcessionariaAPI\\Repositories\\MarcaRepository.cs",
+              "ToolTip": "C:\\Users\\84289112587\\source\\repos\\ConcessionariaAPI\\ConcessionariaAPI\\Repositories\\MarcaRepository.cs",
+              "RelativeToolTip": "ConcessionariaAPI\\Repositories\\MarcaRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T22:29:09.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMarcaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\84289112587\\source\\repos\\ConcessionariaAPI\\ConcessionariaAPI\\Interfaces\\IMarcaRepository.cs",
+              "RelativeDocumentMoniker": "ConcessionariaAPI\\Interfaces\\IMarcaRepository.cs",
+              "ToolTip": "C:\\Users\\84289112587\\source\\repos\\ConcessionariaAPI\\ConcessionariaAPI\\Interfaces\\IMarcaRepository.cs",
+              "RelativeToolTip": "ConcessionariaAPI\\Interfaces\\IMarcaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T22:27:32.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\84289112587\\source\\repos\\ConcessionariaAPI\\ConcessionariaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ConcessionariaAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\84289112587\\source\\repos\\ConcessionariaAPI\\ConcessionariaAPI\\Program.cs",
+              "RelativeToolTip": "ConcessionariaAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T23:18:01.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "VeiculoController.cs",
               "DocumentMoniker": "C:\\Users\\84289112587\\source\\repos\\ConcessionariaAPI\\ConcessionariaAPI\\Controllers\\VeiculoController.cs",
               "RelativeDocumentMoniker": "ConcessionariaAPI\\Controllers\\VeiculoController.cs",
@@ -42,12 +106,11 @@
               "RelativeToolTip": "ConcessionariaAPI\\Controllers\\VeiculoController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-16T23:31:46.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-16T23:31:46.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "VeiculoRepository.cs",
               "DocumentMoniker": "C:\\Users\\84289112587\\source\\repos\\ConcessionariaAPI\\ConcessionariaAPI\\Repositories\\VeiculoRepository.cs",
               "RelativeDocumentMoniker": "ConcessionariaAPI\\Repositories\\VeiculoRepository.cs",
@@ -60,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IVeiculoRepository.cs",
               "DocumentMoniker": "C:\\Users\\84289112587\\source\\repos\\ConcessionariaAPI\\ConcessionariaAPI\\Interfaces\\IVeiculoRepository.cs",
               "RelativeDocumentMoniker": "ConcessionariaAPI\\Interfaces\\IVeiculoRepository.cs",
@@ -68,25 +131,11 @@
               "RelativeToolTip": "ConcessionariaAPI\\Interfaces\\IVeiculoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-16T23:21:24.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-16T23:21:24.714Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\84289112587\\source\\repos\\ConcessionariaAPI\\ConcessionariaAPI\\Program.cs",
-              "RelativeDocumentMoniker": "ConcessionariaAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\84289112587\\source\\repos\\ConcessionariaAPI\\ConcessionariaAPI\\Program.cs",
-              "RelativeToolTip": "ConcessionariaAPI\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-16T23:18:01.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\84289112587\\source\\repos\\ConcessionariaAPI\\ConcessionariaAPI\\appsettings.json",
               "RelativeDocumentMoniker": "ConcessionariaAPI\\appsettings.json",
@@ -94,8 +143,7 @@
               "RelativeToolTip": "ConcessionariaAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-11-16T23:13:04.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-16T23:13:04.28Z"
             }
           ]
         }
